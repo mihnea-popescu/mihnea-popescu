@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome 👋
+
+
+[![Mihnea's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihnea-popescu&count_private=true)](https://github.com/mihnea-popescu) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihnea-popescu&count_private=true&show_icons=true&layout=compact)](https://github.com/mihnea-popescu)
+
+[![Mihnea's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mihneapopescu&langs_count=5)](https://github.com/mihnea-popescu)
 
 <!--
 **mihnea-popescu/mihnea-popescu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
